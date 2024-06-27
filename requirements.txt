@@ -1,0 +1,8 @@
+argparse
+numpy
+onnxruntime
+pandas
+pillow
+huggingface_hub
+tqdm
+pathlib
