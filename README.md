@@ -21,7 +21,7 @@ positional arguments:
 
 options:
   -h, --help            show this help message and exit
-  --model MODEL         Model selection (swinv3, convnextv3, vitv3) (default: vitv3)
+  --model MODEL         Model selection (swinv3, convnextv3, vitv3, vitv3-large) (default: vitv3)
   --general             Save general tags
   --rating              Save rating tag
   --character           Save character tags

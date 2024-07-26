@@ -11,6 +11,7 @@ from tqdm import tqdm
 #model list
 models = {"swinv3":"SmilingWolf/wd-swinv2-tagger-v3",
           "vitv3":"SmilingWolf/wd-vit-tagger-v3",
+          "vitv3-large":"SmilingWolf/wd-vit-large-tagger-v3",
           "convnextv3":"SmilingWolf/wd-convnext-tagger-v3"}
 
 
